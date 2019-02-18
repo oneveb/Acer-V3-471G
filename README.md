@@ -62,8 +62,9 @@ sudo kextcache -i /
 ### S/L/E
 for install to System/Library/Extensions, I use kext installer like kextwizard
 
-## <details><summary>ScreenShot</summary>
+## Screenshot
 
+<details><summary>Screenshot</summary>
 <p>
 
 ![about](./screenshot/about.png)
