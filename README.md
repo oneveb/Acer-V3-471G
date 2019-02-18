@@ -62,11 +62,17 @@ sudo kextcache -i /
 ### S/L/E
 for install to System/Library/Extensions, I use kext installer like kextwizard
 
-## ScreenShot
+## <details><summary>ScreenShot</summary>
+
+<p>
+
 ![about](./screenshot/about.png)
 ![macappstore](./screenshot/macappstore.png)
 ![preview](./screenshot/preview.png)
 ![systemversion](./screenshot/systemversion.png)
+
+</p>
+</details>
 
 ## Credits
 
