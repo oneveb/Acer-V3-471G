@@ -76,4 +76,4 @@ for install to System/Library/Extensions, I use kext installer like kextwizard
 
 - Thanks to [chunnann](https://github.com/chunnann) and [black-dragon74](https://github.com/black-dragon74) for providing [ATH9KFixup](https://github.com/black-dragon74/ATH9KFixup).
 
-- Thanks to [RehabMan](https://github.com/RehabMan) for providing [ACPIBatteryManager](https://github.com/RehabMan/OS-X-ACPI-Battery-Driver), [OS-X-Clover-Laptop-Config](https://github.com/RehabMan/OS-X-Clover-Laptop-Config), Realtek [RTL8111 Network Driver](https://github.com/RehabMan/OS-X-Realtek-Network), and [VoodooPS2Controller](https://github.com/RehabMan/OS-X-Voodoo-PS2-Controller).
+- Thanks to [RehabMan](https://github.com/RehabMan) for providing [ACPIBatteryManager](https://github.com/RehabMan/OS-X-ACPI-Battery-Driver), [OS-X-Clover-Laptop-Config](https://github.com/RehabMan/OS-X-Clover-Laptop-Config), [Realtek RTL8111 Network Driver](https://github.com/RehabMan/OS-X-Realtek-Network), and [VoodooPS2Controller](https://github.com/RehabMan/OS-X-Voodoo-PS2-Controller).
