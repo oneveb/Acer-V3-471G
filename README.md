@@ -1,6 +1,6 @@
 # Acer V3-471G
 
-This is my backup clover config and kext that I use for macOS Mojave build 18D109 on Acer V3-471G. I do not yet understand about dsdt and ssdt patching, so I think it still needs more patch further.but for my daily use now I think it's enough.
+This is my backup clover config and kext that I use for macOS Mojave build 18D109 on Acer V3-471G. I do not yet understand about dsdt and ssdt patching, so I think it still needs more patch further, but for my daily use now I think it's enough.
 
 ### Audio
 - The model of the sound card is `Realtek ALC269`, which is driven by `AppleALC` on layout-id 1 (Testing | speaker : no sound, headphone : good); injection information is located in `/CLOVER/config.plist`.
