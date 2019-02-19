@@ -77,6 +77,8 @@ for install to System/Library/Extensions, I use kext installer like kextwizard
 
 ## Credits
 
+- [Apple](https://www.apple.com) for macOS 
+
 - Thanks to [Acidanthera](https://github.com/acidanthera) for providing [AppleALC](https://github.com/acidanthera/AppleALC), [Lilu](https://github.com/acidanthera/Lilu), and [WhateverGreen](https://github.com/acidanthera/WhateverGreen).
 
 - Thanks to [apianti](https://sourceforge.net/u/apianti), [blackosx](https://sourceforge.net/u/blackosx), [blusseau](https://sourceforge.net/u/blusseau), [dmazar](https://sourceforge.net/u/dmazar), and [slice2009](https://sourceforge.net/u/slice2009) for providing [Clover](https://sourceforge.net/projects/cloverefiboot).
