@@ -1,6 +1,6 @@
 # Acer V3-471G
 
-This is my backup clover config and kext that I use for macOS Mojave build 18D109 on Acer V3-471G. I do not yet understand about dsdt and ssdt patching, so I think it still needs more patch further, but for my daily use now I think it's enough.
+This is my backup clover config and kext that I use for macOS 10.14.3 Mojave build 18D109 on Acer V3-471G. I do not yet understand about dsdt and ssdt patching, so I think it still needs more patch further, but for my daily use now I think it's enough.
 
 ### Audio
 - The model of the sound card is `Realtek ALC269`, which is driven by `AppleALC` on layout-id 1 (Testing | speaker : no sound, headphone : good); injection information is located in `/CLOVER/config.plist`.
@@ -12,7 +12,7 @@ This is my backup clover config and kext that I use for macOS Mojave build 18D10
 - The model is `i5-2450M` 2.5 GHz. In my old device temp is high 70-85 (sad). Maybe I try to replace my thermal paste.
 
 ### Graphics
-- The model name is `Intel HD3000`, renamed GFX0 -> IGPU in /CLOVER/config.plist.
+- The model name is `Intel HD Graphics 3000`, renamed GFX0 -> IGPU in /CLOVER/config.plist.
 - The discrete graphics' name is `NVIDIA GeForce GT 630M`, disabled by `-wegnoegpu` because macOS doesn't support Optimus technology.
 - Native brightness support.
 - External vga and hdmi not tested yet
