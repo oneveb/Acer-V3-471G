@@ -69,6 +69,7 @@ for install to System/Library/Extensions, I use kext installer like kextwizard
 
 ![about](./screenshot/about.png)
 ![macappstore](./screenshot/macappstore.png)
+![intelpowergadget](./screenshot/intelpowergadget.png)
 ![preview](./screenshot/preview.png)
 ![systemversion](./screenshot/systemversion.png)
 
